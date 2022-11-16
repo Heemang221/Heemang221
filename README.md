@@ -30,6 +30,11 @@
 
 <p align="center"><a href="https://rosedata.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://rosedata.tistory.com/"/></a>  <a href="mailto:heemang0221@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heemang0221@gmail.com"/></a></p>  
 
+<br><p align="center"> [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangmang0221)](https://solved.ac/mangmang0221) </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 
 <!--
 **Heemang221/Heemang221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
