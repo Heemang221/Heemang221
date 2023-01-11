@@ -16,6 +16,7 @@
 
 | Position | Company | Content | Skills | Employment Period |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
+| Intern | NCsoft | Financial AI RD | Python, Hadoop, SQL | 2022.12 ~ ing | 
 | Intern | 번개장터 | Data Analyst | SQL | 2022.06 ~ 2022.09  |
 | Intern | SBS | Issue writter | 문서화, Communication | 2021.08 ~ 2022.03 |  
 
