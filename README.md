@@ -8,6 +8,7 @@
 
 | Title | Major | Education Period |
 | ------------ | ------------- | ------------- |
+| University Of Seoul | Statistics Data Science | 2023.03 ~  |
 | Dankook University | Political Science & Statistics | 2019.03 ~ 2022.08  |
 | [K-digital] Big Data Analysis Education | Big Data | 2020.12 ~ 2021.06 |
 
@@ -16,7 +17,7 @@
 
 | Position | Company | Content | Skills | Employment Period |
 | ------------ | ------------- | ------------- | ------------- | ------------- |
-| Intern | NCsoft | Financial AI RD | Python, Hadoop, SQL | 2022.12 ~ ing | 
+| Intern | NCsoft | Financial AI RD | Python, Hadoop, SQL | 2022.12 ~ 2023.03 | 
 | Intern | 번개장터 | Data Analyst | SQL | 2022.06 ~ 2022.09  |
 | Intern | SBS | Issue writter | 문서화, Communication | 2021.08 ~ 2022.03 |  
 
